@@ -22,7 +22,12 @@ offline speech recognition with tensorflow,
 posenet with tensorflow or Real-Time-Voice-Cloning for voice modification.
 
 
-Technologies I used
-TensorFlowMobilenetpose modelvoice modelAudioSpeech SynthesizeUI
+Technologies
+
+TensorFlow
+Mobilenetpose
+modelvoice
+modelAudioSpeech 
+SynthesizeUI
 
   
