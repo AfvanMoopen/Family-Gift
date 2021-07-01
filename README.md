@@ -1,6 +1,5 @@
 # Family-Gift
 
-# YOUR PROJECT TITLE
 #### Video Demo: https://player.vimeo.com/video/541326953
 #### Description:   This is Voice enabled(trainer) AI fitness trainng machine built on AI using tensorflow, and the precise pose detection helps this app to guide users and ensure physical activity with proper chart
 
